@@ -49,3 +49,5 @@ restaurante_pizza=Restaurante('pizza express','Italiana')
 
 # 5 consumindo o método listar_restaurantes
 Restaurante.listar_restaurantes()
+
+

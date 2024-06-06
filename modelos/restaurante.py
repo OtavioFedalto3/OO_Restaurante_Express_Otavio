@@ -66,3 +66,5 @@ print('')
 
 # QUESTÃO 9
 print(f'Nome: {restaurante_praca.nome} e a categoria: {restaurante_praca.categoria}')
+
+

@@ -1,4 +1,3 @@
-
 # 1 criar uma classe Restaurante usando construtor
 class Restaurante:
     restaurantes=[]
@@ -37,3 +36,5 @@ restaurante_pizza=Restaurante('Pizza Express','Italiana')
 
 # 5 consumindo o método listar_restaurantes
 Restaurante.listar_restaurantes()
+
+
